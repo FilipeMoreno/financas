@@ -1,5 +1,6 @@
 # Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=Vercel)
 
 ## Backend
 ![Node JS](https://img.shields.io/badge/-Node%20JS-339933?style=flat-square&logo=Node.js&logoColor=white)
