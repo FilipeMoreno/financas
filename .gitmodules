@@ -1,3 +1,7 @@
-[submodule "front"]
-	path = front
+[submodule "frontend"]
+	path = frontend
 	url = https://github.com/FilipeMoreno/financas-front.git
+
+[submodule "backend"]
+	path = backend
+	url = https://github.com/FilipeMoreno/financas-back.git
